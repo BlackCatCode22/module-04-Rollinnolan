@@ -6,6 +6,7 @@ public class Tiger extends Animal
     public Tiger(String name){
         super(name);
         this.name= name;
+        this.species = "tiger";
     }
     public Tiger(String name, int age)
     {

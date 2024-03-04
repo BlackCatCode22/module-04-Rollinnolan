@@ -6,6 +6,7 @@ package Zoo;
         public Hyena(String name){
             super(name);
             this.name= name;
+            this.species = "hyena";
         }
         public Hyena(String name, int age)
         {
